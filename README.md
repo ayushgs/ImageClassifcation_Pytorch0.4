@@ -1,4 +1,4 @@
-# ImageClassifcation_Pytorch0.4
+# ImageClassification_Pytorch0.4
 
 This repository contains necessary codes to establish a neural image classification pipeline by a model architecture of one's choice. The codes can be used a reference by beginners to build their own model. 
 
